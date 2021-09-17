@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Munhoz!
 
-- 🔭 Estou a procura e estágio em tecnologia
+- 🔭 Estou a procura de estágio em tecnologia
 - 🌱 Estudando python, java e outros
 - 📫 Meu email: gabrielmunhozgasparotti@outlook.com
 
