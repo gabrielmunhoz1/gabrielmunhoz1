@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmunhoz1&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/782757862648315915/888423760191975504/Hnet.com-image_1.gif">
+  <img align="right" alt="Gabriel-Hi" src="https://cdn.discordapp.com/attachments/782757862648315915/888423760191975504/Hnet.com-image_1.gif">
 </div>
  <div>
   <a href = "mailto:gabrielmunhozgasparotti@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
