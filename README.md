@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Munhoz!
 
-- 🌱 Estudando python, java, AWS, infra e outros
+- 🌱 Atualmente estou estudando Terraform, Kubernetes, AWS, infra e outros
 - 📫 Meu email: gabrielmunhozgasparotti@outlook.com
 
 
