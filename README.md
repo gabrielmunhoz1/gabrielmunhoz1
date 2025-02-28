@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Gabriel Munhoz!
 
-- 🌱 Atualmente estou estudando Terraform, Kubernetes, AWS, infra e outros
+- 🌱 Knowledge: Kubernetes, AWS, GCP, Docker, Grafana, Prometheus, Linux, Terraform, Redes, Ferramentas de CICD.
+- 🌱 Atualmente estou estudando para a certificação CKA do Kubernetes.
 - 📫 Meu email: gabrielmunhozgasparotti@outlook.com
 
 
